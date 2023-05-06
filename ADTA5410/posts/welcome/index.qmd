@@ -1,0 +1,10 @@
+---
+title: "Welcome To My Blog"
+author: "Sindhuja Rao Yerra"
+date: "2023-05-03"
+categories: [R]
+---
+
+Hi, This is Sindhuja. Welcome!
+
+![](thumbnail.jpg)
